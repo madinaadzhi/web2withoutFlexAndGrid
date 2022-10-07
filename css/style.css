@@ -1,0 +1,137 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    font-family: Verdana, sans-serif;
+    color: black;
+}
+
+.header {
+    display: grid;
+    background-color: white;
+    /*padding: 15px;*/
+}
+
+h1 {
+    margin-left: 1255px;
+    margin-top: -60px;
+}
+
+.menu ul {
+    width: 100%;
+    margin-left: 15px;
+    overflow: hidden;
+}
+
+.menu li {
+    padding: 20px;
+    margin-right: 5px;
+    float: left;
+    list-style-type: none;
+}
+
+.menu a {
+    display: inline-block;
+    color: black;
+    text-decoration: underline;
+}
+
+.row {
+    content: "";
+    display: inline-block;
+    clear: both;
+}
+
+.row1 {
+    content: "";
+    display: inline-block;
+    clear: both;
+}
+
+.column {
+    display: inline-block;
+    width: 350px;
+    float: left;
+}
+
+.secondBlock {
+    background-color: white;
+    padding: 20px 75px;
+}
+
+.fifthBlock {
+    background-color: white;
+    padding: 20px 75px;
+    text-align: left;
+}
+
+.row2 {
+    display: inline-block;
+    float: right;
+}
+
+.sixthBlock {
+    background-color: white;
+    width: 700px;
+    height: 205px;
+    padding: 20px 75px;
+    float: right;
+    margin-right: -735px;
+    text-align: right;
+}
+
+.y {
+    background-color: white;
+    width: 154px;
+    height: 40px;
+    margin-left: 75px;
+    margin-right: 5px;
+    margin-top: 100px;
+    /*padding: 20px;*/
+    float: left;
+}
+
+.thirdBlock {
+    background-color: white;
+    float: left;
+    width: 36em;
+    height: 150px;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 20px 75px;
+    text-align: center;
+}
+
+.fourthBlock {
+    background-color: white;
+    float: right;
+    width: 210px;
+    margin-left: 1075px;
+    margin-top: -855px;
+    padding: 20px 75px;
+    text-align: right;
+}
+
+.row3 {
+    display: inline-block;
+    float: left;
+}
+
+.about {
+    margin-top: -340px;
+    margin-left: 625px;
+}
+
+.support {
+    margin-left: 50px;
+    list-style-type:square;
+}
+
+.support a {
+    color: black;
+}
+
+
+.news {
+    margin-left: 60px;
+}
